@@ -70,9 +70,12 @@
 
 ## Use To Code
 
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
 
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
