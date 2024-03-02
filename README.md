@@ -7,7 +7,7 @@
 
 
 
-<!-- Intro  -->
+<!-- Intro dropction -->
 <h3 align="center">
     <samp>&gt; Hey There!, I am
         <b><a target="_blank" href="https://tarikul.info/">Tarikul Islam</a></b>
