@@ -51,7 +51,7 @@
 </p>
 <br />
 
-<!-- About Section -->
+<!-- About Section below -->
 # About me
 
 <p>
