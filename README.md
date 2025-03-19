@@ -23,6 +23,15 @@
 </p>
 
 ---
+### 📌 Featured Projects
+🛠 Project 1: E-commerce Platform
+🔥 Project 2: Real-time Chat App
+🚀 Project 3: AI-powered Blog Generator
+📈 Project 4: Customer Relationship Management (CRM) System
+💡 Project 5: E-Solution for Digital Services
+🗂 Project 6: Business Management Software
+
+---
 
 ### 🌍 Connect with Me
 <p align="center">
@@ -34,12 +43,4 @@
 
 ---
 
-### 📌 Featured Projects
-🛠 Project 1: E-commerce Platform
-🔥 Project 2: Real-time Chat App
-🚀 Project 3: AI-powered Blog Generator
-📈 Project 4: Customer Relationship Management (CRM) System
-💡 Project 5: E-Solution for Digital Services
-🗂 Project 6: Business Management Software
 
----
