@@ -27,20 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/Tarikulat">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikulat&theme=radical&border=7F3FBF&background=0D1117" height="150" />
-  </a>
-  <a href="https://github.com/Tarikulat">
-    <img src="https://github-readme-stats.vercel.app/api?username=tarikulat&show_icons=true&theme=radical" height="150" />
-  </a>
-  <a href="https://github.com/Tarikulat">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarikulat&theme=radical" height="150" />
-  </a>
-</p>
 
----
 
 ### 🌍 Connect with Me
 <p align="center">
