@@ -34,7 +34,7 @@
 
 ---
 
-📌 Featured Projects
+### 📌 Featured Projects
 🛠 Project 1: E-commerce Platform
 🔥 Project 2: Real-time Chat App
 🚀 Project 3: AI-powered Blog Generator
