@@ -112,27 +112,27 @@ Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=als
 <p align="center">
     <a href="https://github.com/Tarikulat">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikulat&theme=radical&border=7F3FBF&background=0D1117"
-            alt=Rakib's GitHub streak" />
+            alt=tanvir GitHub streak" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/Tarikulat">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarikulat&theme=radical"
-            alt="Rakib's GitHub Contribution" />
+            alt="tanvir GitHub Contribution" />
     </a>
 </p>
 
 <a>
-    <a href="https://github.com/Tarikulat"><img alt="Rakib's's Github Stats"
+    <a href="https://github.com/Tarikulat"><img alt="tanvir's Github Stats"
             src="https://denvercoder1-github-readme-stats.vercel.app/api?username=tarikulat&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
             height="192px" width="49.5%" /></a>
-    <a href="https://github.com/Tarikulat"><img alt="Rakib's Top Languages"
+    <a href="https://github.com/Tarikulat"><img alt="tanvir Top Languages"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=tarikulat&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
             height="192px" width="49.5%" /></a>
     <br />
 </a>
 
 
-![Rakib's
+![tanvir
 Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarikulat&custom_title=Tarikul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
