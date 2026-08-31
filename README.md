@@ -48,15 +48,15 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-025E8D?style=for-the-badge&logo=api&logoColor=white)
 
-### 📌 Featured Projects
-- 🛒 **E-commerce Platform Architecture:** Scalable online platform featuring automated inventory management, payment gateways, and Facebook Conversions API (CAPI) tracking.
-- 🤖 **Office file Approval System :** Smart technology to automate content workflow and business office approval with payment management solutions.
-- 💼 **Business Management & CRM Solutions:** Custom ERP/CRM software tailored for tracking leads, client workflows, and generating automated financial & sales analytics reports.
-- 📱 **Automated Notification Engine:** Tailored SMS & communication engine handling order status alerts, bulk campaigns, and delivery notifications.
-- 🤖 **AI-Powered Digital Services Platform:** Modern web application leveraging smart technology to automate content workflow and business services.
+###  Featured Projects
+- 🛒 **E-commerce Platform Architecture:** 
+- 🤖 **Office file Approval System :** 
+- 💼 **Business Management & CRM Solutions:** 
+- 📱 **Automated Notification Engine:** 
+- 🤖 **AI-Powered Digital Services Platform:** 
 
 
-### 📬 Connect & Collaborate
+### Connect & Collaborate
 <p align="center">
   <a href="https://tarikul.info/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/md-tarikul-islam-973a21263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
