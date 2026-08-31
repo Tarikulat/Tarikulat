@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 💼 **Current Focus:** Building tailored, high-performance **Custom Software Solutions** & enterprise web applications.
 - ⚡ **Backend Mastery:** Designing robust RESTful APIs, complex database structures, and scalable architectures.
 - 🔄 **Integrations:** Expert in third-party API integrations (Payment Gateways, SMS Services, CRM Tools, Facebook CAPI).
@@ -22,13 +22,13 @@
 - 🌍 **Collaboration:** Open for freelance custom software projects, remote full-time roles, and tech consultations.
 
 
-### 💼 Custom Software Development Services
+###  Custom Software Development Services
 - 🛍️ **Custom E-commerce Systems** (Order tracking, multi-vendor management, inventory, sales analytics)
 - 📊 **Enterprise Business Management Solutions** (CRM, ERP, POS Systems)
 - ⚙️ **Automated Notification Systems** (Bulk SMS, WhatsApp API, and automated email workflows)
 - 🔄 **System Migration & Performance Optimization** (Database tuning, legacy system upgrades)
 
-### 🛠 Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages & Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -50,17 +50,10 @@
 
 ### 📌 Featured Projects
 - 🛒 **E-commerce Platform Architecture:** Scalable online platform featuring automated inventory management, payment gateways, and Facebook Conversions API (CAPI) tracking.
+- 🤖 **Office file Approval System :** Smart technology to automate content workflow and business office approval with payment management solutions.
 - 💼 **Business Management & CRM Solutions:** Custom ERP/CRM software tailored for tracking leads, client workflows, and generating automated financial & sales analytics reports.
 - 📱 **Automated Notification Engine:** Tailored SMS & communication engine handling order status alerts, bulk campaigns, and delivery notifications.
 - 🤖 **AI-Powered Digital Services Platform:** Modern web application leveraging smart technology to automate content workflow and business services.
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarikulat&show_icons=true&theme=tokyonight&count_private=true" alt="Tarikul's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikulat&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
 
 
 ### 📬 Connect & Collaborate
